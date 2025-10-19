@@ -12,7 +12,6 @@ func main() {
 
 	// Generate random number and store inside a variable
 	number := rand.Intn(10) + 1
-	fmt.Println(number)
 
 	// Declare variable which will store the users guess
 	var guess int
